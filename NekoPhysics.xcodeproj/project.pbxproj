@@ -162,6 +162,7 @@
 		3A1CA8921AF9FD3A008237A7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = PRH;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = MojaProject;
 				TargetAttributes = {
